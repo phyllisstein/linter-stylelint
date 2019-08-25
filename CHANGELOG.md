@@ -1,3 +1,45 @@
+## [4.4.9](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.8...v4.4.9) (2019-06-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency assign-deep to v0.4.8 ([5578c4c](https://github.com/AtomLinter/linter-stylelint/commit/5578c4c))
+
+## [4.4.8](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.7...v4.4.8) (2019-06-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency resolve to v1.11.1 ([e1aca0d](https://github.com/AtomLinter/linter-stylelint/commit/e1aca0d))
+
+## [4.4.7](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.6...v4.4.7) (2019-05-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency resolve to v1.11.0 ([a441cec](https://github.com/AtomLinter/linter-stylelint/commit/a441cec))
+
+## [4.4.6](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.5...v4.4.6) (2019-04-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-config-standard to v18.3.0 ([769e7d3](https://github.com/AtomLinter/linter-stylelint/commit/769e7d3))
+
+## [4.4.5](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.4...v4.4.5) (2019-04-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency resolve to v1.10.1 ([a3e49b1](https://github.com/AtomLinter/linter-stylelint/commit/a3e49b1))
+
+## [4.4.4](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.3...v4.4.4) (2019-04-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency atom-package-deps to v5.1.0 ([757fdb5](https://github.com/AtomLinter/linter-stylelint/commit/757fdb5))
+
 ## [4.4.3](https://github.com/AtomLinter/linter-stylelint/compare/v4.4.2...v4.4.3) (2019-01-22)
 
 
